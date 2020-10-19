@@ -33,9 +33,14 @@ GEM
       jekyll (>= 3.7, < 5.0)
     jekyll-gist (1.5.0)
       octokit (~> 4.2)
+    jekyll-github-metadata (2.13.0)
+      jekyll (>= 3.4, < 5.0)
+      octokit (~> 4.0, != 4.4.0)
     jekyll-paginate (1.1.0)
     jekyll-sass-converter (1.5.2)
       sass (~> 3.4)
+    jekyll-seo-tag (2.7.1)
+      jekyll (>= 3.8, < 5.0)
     jekyll-sitemap (1.4.0)
       jekyll (>= 3.7, < 5.0)
     jekyll-theme-poole (2.1.0)
@@ -44,6 +49,10 @@ GEM
       jekyll-gist (~> 1.5)
       jekyll-paginate (~> 1.1)
       jekyll-sitemap (~> 1.1)
+    jekyll-theme-primer (0.5.4)
+      jekyll (> 3.5, < 5.0)
+      jekyll-github-metadata (~> 2.9)
+      jekyll-seo-tag (~> 2.0)
     jekyll-watch (2.2.1)
       listen (~> 3.0)
     kramdown (2.3.0)
@@ -81,6 +90,7 @@ PLATFORMS
 
 DEPENDENCIES
   jekyll-theme-poole (~> 2.1)
+  jekyll-theme-primer (~> 0.5.4)
 
 BUNDLED WITH
    2.1.4
