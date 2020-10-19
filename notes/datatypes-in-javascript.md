@@ -6,8 +6,8 @@
 
 There are primarily two types of datatypes in JavaScript:
 
-➡ [Primitives 💫](#primitives-💫)  
-➡ [Objects ☯](#objects-☯)
+➡ [Primitives 💫](#primitives-)  
+➡ [Objects ☯](#objects-)
 
 ---
 
@@ -22,7 +22,7 @@ The lowest level building blocks in JavaScript are primitives, which include: un
 > typeof true // boolean
 ```
 
-## Objects ☯
+## Objects ☯ 
 
 Anything that is not a primitive is an Object, or a descendant of it. Objects are collections of key/value pairs and used as the building block for more complex data structures.
 
@@ -36,5 +36,4 @@ typeof function () {}; // function (which inherits from object)
 
 See Also:
 
-> ⚫ What is the Truth? 🤥 [ Read ▶ ](https://google.com)  
 > ⚫ What is the Truth? 🤥 [ Read ▶ ](/what-is-the-truth.md)
