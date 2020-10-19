@@ -1,10 +1,8 @@
-# Hoisting? ...is this a Ship? 🤨
+# Hoisting 🏴‍☠️ ? ...is this a Ship? 🤨
 
-[Home](../README.md) / Hoisting?
+[Home](../README.md) / Hoisting 🏴‍☠️ ? ...is this a Ship? 🤨
 
 ---
-
-# Hoisting 🏴‍☠️
 
 Hoisting means that your declarations, i.e. functions and variables, will always be placed in memory at the top of the execution context.
 
@@ -47,7 +45,7 @@ Lets recapitulate 📝:
 
 I hope that the term `hoisting` is a bit less obscure now. As always, don't worry if it still doesn't make a lot of sense yet. You'll get a lot more comfortable with it the more you work with it. Feel free to ask me for help. I would love to help you! 😃
 
-Code : [here](../scripts/hoisting.js)
+See the above code [here](../scripts/hoisting.js)
 
 Read more [here](https://developer.mozilla.org/en-US/docs/Glossary/Hoisting)
 
@@ -56,3 +54,5 @@ Read more [here](https://developer.mozilla.org/en-US/docs/Glossary/Hoisting)
 See Also:
 
 > ⚫ What is the Truth? 🤥 [ Read ▶ ](/what-is-the-truth.md)
+> ⚫ Event Loop. 🔁 😵 [ Read ▶ ](/event-loop.md)
+> ⚫ Promises 🤝 and Async/Await 🤯 [ Read ▶ ](/promises.md)
