@@ -46,7 +46,7 @@ Hopefully going to cover everything...
 
 ⚫ Beyond console.log() 🖥️
 
-⚫ Promises 🤝 and Async/Await 🤯 [ Read ▶ ](/promises.md)
+⚫ Promises 🤝 and Async/Await 🤯 [ Read ▶ ](/notes/promises.md)
 
 ⚫ Modules 😄
 
