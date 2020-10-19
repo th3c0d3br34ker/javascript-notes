@@ -1,6 +1,6 @@
 # Datatypes in JavaScript. 😙
 
-[Home](..\README.md) / Datatypes in JavaScript.
+[Home](../README.md) / Datatypes in JavaScript.
 
 ---
 
@@ -22,7 +22,7 @@ The lowest level building blocks in JavaScript are primitives, which include: un
 > typeof true // boolean
 ```
 
-## Objects ☯ 
+## Objects ☯
 
 Anything that is not a primitive is an Object, or a descendant of it. Objects are collections of key/value pairs and used as the building block for more complex data structures.
 

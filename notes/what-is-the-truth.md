@@ -1,6 +1,6 @@
 # What is the Truth? 🤥
 
-[Home](..\README.md) / What is the Truth?
+[Home](../README.md) / What is the Truth?
 
 ---
 

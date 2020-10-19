@@ -39,12 +39,13 @@ Hopefully going to cover everything...
 
 ⚫ Beyond console.log() 🖥️
 
-⚫ Async/Await 🤯
+⚫ Promises and Async/Await 🤯
 
 ⚫ Modules 😄
 
 ## 🚀 References
 
-1.  https://dev.to/lydiahallie/javascript-visualized-event-loop-3dif
+➡ [Mozilla](https://developer.mozilla.org/en-US/docs/Web/JavaScript)  
+➡ [Fireship.io](https://fireship.io/courses/javascript/)
 
 > Collected with 🖤 by Jainam Desai

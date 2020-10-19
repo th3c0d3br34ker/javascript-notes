@@ -1,6 +1,6 @@
 # Hoisting? ...is this a Ship? 🤨
 
-[Home](..\README.md) / Hoisting?
+[Home](../README.md) / Hoisting?
 
 ---
 
