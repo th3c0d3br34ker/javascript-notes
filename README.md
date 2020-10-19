@@ -7,7 +7,7 @@ Hopefully going to cover everything...
 
 ---
 
-⚫ What on 🌐 is JavaSrcipt? 😶 [ Read ▶ ](\notes\what-is-javascript.md)
+⚫ What on 🌐 is JavaSrcipt? 😶 [ Read ▶ ](/notes/what-is-javascript.md)
 
 ⚫ How and Where JavaScript works? 😫 [ Read ▶ ](notes\how-and-where-is-javascript.md)
 
