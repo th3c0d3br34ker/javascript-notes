@@ -1,4 +1,8 @@
-# Javasrcipt ☢ Notes _(cause I can't memorise them all)_ 🥴
+# Javascript ☢ Notes _(cause I can't memorise them all)_ 🥴
+
+<img width="100%" alt="JavaScript" src ="images/javascript-logo-banner.jpg">
+
+![Made with Bootstrap](https://img.shields.io/badge/Made%20with-Markdown-white)
 
 🕉 _(Taking God's name, because.)_  
 Hopefully going to cover everything...
@@ -9,9 +13,9 @@ Hopefully going to cover everything...
 
 ⚫ What on 🌐 is JavaSrcipt? 😶 [ Read ▶ ](/notes/what-is-javascript.md)
 
-⚫ How and Where JavaScript works? 😫 [ Read ▶ ](notes\how-and-where-is-javascript.md)
+⚫ How and Where What is the Truth? 🤥JavaScript works? 😫 [ Read ▶ ](/notes/how-and-where-is-javascript.md)
 
-⚫ Datatypes in JavaScript. 😙
+⚫ Datatypes in JavaScript. 😙 [ Read ▶ ](/notes/datatypes-in-javascript.md)
 
 ⚫ What is the Truth? 🤥
 
