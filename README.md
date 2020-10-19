@@ -6,7 +6,6 @@
 
 ![Made with Bootstrap](https://img.shields.io/badge/Made%20with-Markdown-white)
 
-
 🕉 _(Taking God's name, because.)_  
 Hopefully going to cover everything...
 
@@ -22,9 +21,9 @@ Hopefully going to cover everything...
 
 ⚫ What is the Truth? 🤥 [ Read ▶ ](/notes/what-is-javascript.md)
 
-⚫ Event Loop. 🔁 😵
+⚫ Event Loop. 🔁 😵 [ Read ▶ ](/notes/event-loop.md)
 
-⚫ Hoisting? ...is this a Ship? 🤨
+⚫ Hoisting? ...is this a Ship? 🤨 [ Read ▶ ](/notes/hoisting.md)
 
 ⚫ Closures... That one question I forgot... 😥
 
