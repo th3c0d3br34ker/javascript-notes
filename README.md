@@ -1,21 +1,28 @@
 # Javascript ☢ Notes _(cause I can't memorise them all)_ 🥴
 
-<img width="100%" alt="JavaScript" src ="images/javascript-logo-banner.jpg">
+<div align="center">
+<img width="75%" height="380px" alt="JavaScript" src ="images/javascript-logo-banner.jpg">
+</div>
 
 ---
 
 ![Made with Bootstrap](https://img.shields.io/badge/Made%20with-Markdown-white)
 
-🕉 _(Taking God's name, because.)_  
+🕉 _(Taking God's name, because.)_
+
+```md
+“Curiosity is the lust of the mind.”- Thomas Hobbes
+```
+
 Hopefully going to cover everything...
 
 ---
 
 ## ✨ Contents
 
-⚫ What on 🌐 is JavaSrcipt? 😶 [ Read ▶ ](/notes/what-is-javascript.md)
+⚫ What on 🌍 is JavaSrcipt? 😶 [ Read ▶ ](/notes/what-is-javascript.md)
 
-⚫ How and Where What is the Truth? 🤥JavaScript works? 😫 [ Read ▶ ](/notes/how-and-where-is-javascript.md)
+⚫ How and Where JavaScript works? 😫
 
 ⚫ Datatypes in JavaScript. 😙 [ Read ▶ ](/notes/datatypes-in-javascript.md)
 
@@ -39,7 +46,7 @@ Hopefully going to cover everything...
 
 ⚫ Beyond console.log() 🖥️
 
-⚫ Promises and Async/Await 🤯
+⚫ Promises and Async/Await 🤯 [ Read ▶ ](/promises.md)
 
 ⚫ Modules 😄
 
