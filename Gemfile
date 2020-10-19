@@ -1,0 +1,1 @@
+gem 'jekyll-theme-poole', '~> 2.1'
