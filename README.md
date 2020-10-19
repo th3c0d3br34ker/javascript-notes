@@ -30,7 +30,7 @@ Hopefully going to cover everything...
 
 ⚫ Event Loop. 🔁 😵 [ Read ▶ ](/notes/event-loop.md)
 
-⚫ Hoisting? ...is this a Ship? 🤨 [ Read ▶ ](/notes/hoisting.md)
+⚫ Hoisting 🏴‍☠️ ? ...is this a Ship? 🤨 [ Read ▶ ](/notes/hoisting.md)
 
 ⚫ Closures... That one question I forgot... 😥
 
@@ -46,7 +46,7 @@ Hopefully going to cover everything...
 
 ⚫ Beyond console.log() 🖥️
 
-⚫ Promises and Async/Await 🤯 [ Read ▶ ](/promises.md)
+⚫ Promises 🤝 and Async/Await 🤯 [ Read ▶ ](/promises.md)
 
 ⚫ Modules 😄
 
