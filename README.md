@@ -2,14 +2,17 @@
 
 <img width="100%" alt="JavaScript" src ="images/javascript-logo-banner.jpg">
 
+---
+
 ![Made with Bootstrap](https://img.shields.io/badge/Made%20with-Markdown-white)
+
 
 🕉 _(Taking God's name, because.)_  
 Hopefully going to cover everything...
 
-## ✨ Contents
-
 ---
+
+## ✨ Contents
 
 ⚫ What on 🌐 is JavaSrcipt? 😶 [ Read ▶ ](/notes/what-is-javascript.md)
 
@@ -17,7 +20,7 @@ Hopefully going to cover everything...
 
 ⚫ Datatypes in JavaScript. 😙 [ Read ▶ ](/notes/datatypes-in-javascript.md)
 
-⚫ What is the Truth? 🤥
+⚫ What is the Truth? 🤥 [ Read ▶ ](/notes/what-is-javascript.md)
 
 ⚫ Event Loop. 🔁 😵
 
