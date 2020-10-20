@@ -6,7 +6,13 @@
 
 ---
 
-![Made with Bootstrap](https://img.shields.io/badge/Made%20with-Markdown-white)
+<p align="center">
+<img alt="Made with Bootstrap" src="https://img.shields.io/badge/Made%20with-Markdown-white"/>
+<img alt="License" src="https://img.shields.io/github/license/th3c0d3br34ker/javascript-notes"/>
+<img alt="Stars" src="https://img.shields.io/github/stars/th3c0d3br34ker/javascript-notes"/> 
+<img alt="Star Badge" src="https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=this%20Repository&style=style=flat&color=blue" />
+</p>
+![]()
 
 🕉 _(Taking God's name, because.)_
 
@@ -46,7 +52,7 @@ Hopefully going to cover everything...
 
 ⚫ Beyond console.log() 🖥️
 
-⚫ Promises 🤝 and Async/Await 🤯 [ Read ▶ ](/promises.md)
+⚫ Promises 🤝 and Async/Await 🤯 [ Read ▶ ](/notes/promises.md)
 
 ⚫ Modules 😄
 
