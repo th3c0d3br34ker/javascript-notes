@@ -75,3 +75,10 @@ The output will remain the same! 🤯
 ### Non-blocking
 
 A property of the event loop model is that JavaScript, unlike a lot of other languages, never blocks. Handling I/O is typically performed via events and callbacks, so when the application is waiting for a database query to return or an XHR/API request to return, it can still process other things like user input.
+
+---
+
+See Also:
+
+> ⚫ Promises 🤝 and Async/Await 🤯 [ Read ▶ ](/promises.md)  
+> ⚫ Datatypes in JavaScript. 😙 [ Read ▶ ](/notes/datatypes-in-javascript.md)
