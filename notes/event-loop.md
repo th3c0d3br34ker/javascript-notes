@@ -44,17 +44,18 @@ const second = () => setTimeout(() => console.log("Second"), 1000);
 const third = () => console.log("Third");
 
 first();
-second());
+second();
 third();
-
 
 // Output
 // JavaScript will first run the synchronous code then it will look for messages in the queue.
 
-First
-Third
-Second
+First;
+Third;
+Second;
 ```
+
+See the above code [here](../scripts/event-loops.js)
 
 > For each round of Event Loop JavaScript will:
 >
