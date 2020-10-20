@@ -4,9 +4,9 @@
 
 ---
 
-Hoisting means that your declarations, i.e. functions and variables, will always be placed in memory at the top of the execution context.
+`Hoisting` means that your declarations, i.e. functions and variables, will always be placed in memory at the top of the execution context.
 
-Hoisting was thought up as a general way of thinking about how `execution contexts` (specifically the creation and execution phases) work in JavaScript. However, the concept can be a little confusing at first. When the JavaScript engine gets our script, the first thing it does is setting up memory for the data in our code. No code is executed at this point, it’s just preparing everything for execution.
+Hoisting was thought up as a general way of thinking about how `execution context` (specifically the creation and execution phases) work in JavaScript. However, the concept can be a little confusing at first. When the JavaScript engine gets our script, the first thing it does is setting up memory for the data in our code. No code is executed at this point, it’s just preparing everything for execution.
 
 See an Example in action:
 
@@ -53,6 +53,6 @@ Read more [here](https://developer.mozilla.org/en-US/docs/Glossary/Hoisting)
 
 See Also:
 
-> ⚫ What is the Truth? 🤥 [ Read ▶ ](/what-is-the-truth.md)
-> ⚫ Event Loop. 🔁 😵 [ Read ▶ ](/event-loop.md)
+> ⚫ What is the Truth? 🤥 [ Read ▶ ](/what-is-the-truth.md)  
+> ⚫ Event Loop. 🔁 😵 [ Read ▶ ](/event-loop.md)  
 > ⚫ Promises 🤝 and Async/Await 🤯 [ Read ▶ ](/promises.md)

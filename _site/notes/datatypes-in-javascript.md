@@ -36,4 +36,5 @@ typeof function () {}; // function (which inherits from object)
 
 See Also:
 
-> ⚫ What is the Truth? 🤥 [ Read ▶ ](/what-is-the-truth.md)
+> ⚫ What is the Truth? 🤥 [ Read ▶ ](/what-is-the-truth.md)  
+> ⚫ Promises 🤝 and Async/Await 🤯 [ Read ▶ ](/promises.md)
