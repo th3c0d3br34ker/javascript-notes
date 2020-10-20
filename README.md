@@ -31,7 +31,7 @@ Hopefully going to cover everything...
 
 ⚫ Datatypes in JavaScript. 😙 [ Read ▶ ](/notes/datatypes-in-javascript.md)
 
-⚫ What is the Truth? 🤥 [ Read ▶ ](/notes/what-is-javascript.md)
+⚫ What is the Truth? 🤥 [ Read ▶ ](/notes/what-is-the-truth.md)
 
 ⚫ Event Loop. 🔁 😵 [ Read ▶ ](/notes/event-loop.md)
 

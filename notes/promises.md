@@ -9,7 +9,9 @@ JavaScript is a single-threaded programming language yet everything on the web i
 ## Contents ✨
 
 ➡ [Promise 🤝](#promise-)  
-➡ [Async/Await](#async/await-)
+➡ [Async/Await](#asyncawait-)
+
+---
 
 ## Promise 🤝
 
@@ -25,8 +27,8 @@ A Promise can be in one of `three` states:
 
 Promises work in two phases.
 
-➡ Creation  
-➡ Consume
+➡ Creation of a Promise  
+➡ Consumption of a Promise
 
 Promise are create with the `new Promise()` constructor initially in the pending state, and provides references to the resolving functions that can be used to change its state.
 
@@ -170,6 +172,18 @@ getSaladFaster().then(log); // ~1sec
 ```
 
 See the above code [here](../scripts/asynchronous-pro.js).
+
+```md
+Lets recapitulate 📝:
+
+➡ A Promise represents a value which is unknown now, but may become known at a later time.
+
+➡ It can exist in one of the three states: Pending, Fullfiled or Rejected.
+
+➡ Async/Await is just the “Syntactic Sugar” to make asynchronous code look like synchronous code.
+
+➡ Promise is a Micro-task. Therefore, it has priority over Macro-tasks.
+```
 
 ---
 

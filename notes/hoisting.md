@@ -39,7 +39,8 @@ n = 5; // Initialization
 ```md
 Lets recapitulate 📝:
 
-➡ Functions and variables are stored in memory for an execution context before we execute our code. This is called hoisting.  
+➡ Functions and variables are stored in memory for an execution context before we execute our code. This is called hoisting.
+
 ➡ Functions are stored with a reference to the entire functions, variables with the var keyword with the value of undefined, and variables with the let and const keyword are stored uninitialized.
 ```
 

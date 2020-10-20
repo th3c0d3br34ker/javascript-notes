@@ -1,6 +1,6 @@
 # Event Loop. 🔁 😵
 
-[Home](../README.md) / Event Loop?
+[Home](../README.md) / Event Loop? 🔁 😵
 
 ---
 
