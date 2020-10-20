@@ -57,5 +57,5 @@ Lets recapitulate 📝:
 
 See Also:
 
-> ⚫ What is the Truth? 🤥 [ Read ▶ ](/what-is-the-truth.md)
-> ⚫ Promises 🤝 and Async/Await 🤯 [ Read ▶ ](/promises.md)
+> ⚫ What is the Truth? 🤥 [ Read ▶ ](./what-is-the-truth.md)  
+> ⚫ Promises 🤝 and Async/Await 🤯 [ Read ▶ ](./promises.md)

@@ -54,6 +54,6 @@ Read more [here](https://developer.mozilla.org/en-US/docs/Glossary/Hoisting)
 
 See Also:
 
-> ⚫ What is the Truth? 🤥 [ Read ▶ ](/what-is-the-truth.md)  
-> ⚫ Event Loop. 🔁 😵 [ Read ▶ ](/event-loop.md)  
-> ⚫ Promises 🤝 and Async/Await 🤯 [ Read ▶ ](/promises.md)
+> ⚫ What is the Truth? 🤥 [ Read ▶ ](./what-is-the-truth.md)  
+> ⚫ Event Loop. 🔁 😵 [ Read ▶ ](./event-loop.md)  
+> ⚫ Promises 🤝 and Async/Await 🤯 [ Read ▶ ](./promises.md)

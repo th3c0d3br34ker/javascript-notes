@@ -85,5 +85,5 @@ For each round of Event Loop JavaScript will:
 
 See Also:
 
-> ⚫ Promises 🤝 and Async/Await 🤯 [ Read ▶ ](/promises.md)  
-> ⚫ Datatypes in JavaScript. 😙 [ Read ▶ ](/notes/datatypes-in-javascript.md)
+> ⚫ Promises 🤝 and Async/Await 🤯 [ Read ▶ ](./promises.md)  
+> ⚫ Datatypes in JavaScript. 😙 [ Read ▶ ](./datatypes-in-javascript.md)

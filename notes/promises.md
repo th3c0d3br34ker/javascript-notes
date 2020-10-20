@@ -189,6 +189,6 @@ Lets recapitulate 📝:
 
 See Also:
 
-> ⚫ Event Loop. 🔁 😵 [ Read ▶ ](/event-loop.md)  
-> ⚫ What is the Truth? 🤥 [ Read ▶ ](/what-is-the-truth.md)  
-> ⚫ Hoisting 🏴‍☠️ ? ...is this a Ship? 🤨 [ Read ▶ ](/hoisting.md)
+> ⚫ Event Loop. 🔁 😵 [ Read ▶ ](./event-loop.md)  
+> ⚫ What is the Truth? 🤥 [ Read ▶ ](./what-is-the-truth.md)  
+> ⚫ Hoisting 🏴‍☠️ ? ...is this a Ship? 🤨 [ Read ▶ ](./hoisting.md)

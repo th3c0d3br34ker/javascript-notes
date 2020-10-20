@@ -33,6 +33,6 @@ Example:
 
 See also:
 
-> ⚫ Promises 🤝 and Async/Await 🤯 [ Read ▶ ](/notes/promises.md)  
-> ⚫ Hoisting 🏴‍☠️ ? ...is this a Ship? 🤨 [ Read ▶ ](/notes/hoisting.md)  
-> ⚫ Event Loop. 🔁 😵 [ Read ▶ ](/notes/event-loop.md)
+> ⚫ Promises 🤝 and Async/Await 🤯 [ Read ▶ ](./promises.md)  
+> ⚫ Hoisting 🏴‍☠️ ? ...is this a Ship? 🤨 [ Read ▶ ](./hoisting.md)  
+> ⚫ Event Loop. 🔁 😵 [ Read ▶ ](./event-loop.md)

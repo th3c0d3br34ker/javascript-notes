@@ -106,5 +106,5 @@ Lets recapitulate 📝:
 
 See also
 
-> ⚫ Event Loop. 🔁 😵 [ Read ▶ ](/event-loop.md)  
-> ⚫ Closures [ Read ▶ ](/closures.md)
+> ⚫ Event Loop. 🔁 😵 [ Read ▶ ](./event-loop.md)  
+> ⚫ Closures [ Read ▶ ](./closures.md)
