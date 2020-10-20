@@ -1,7 +1,7 @@
 # Javascript ☢ Notes _(cause I can't memorise them all)_ 🥴
 
 <div align="center">
-<img width="75%" height="380px" alt="JavaScript" src ="images/javascript-logo-banner.jpg">
+<img width="75%" alt="JavaScript" src ="images/javascript-logo-banner.jpg">
 </div>
 
 ---
