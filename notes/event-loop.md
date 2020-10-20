@@ -57,12 +57,6 @@ Second;
 
 See the above code [here](../scripts/event-loops.js)
 
-> For each round of Event Loop JavaScript will:
->
-> 1.  Run synchronous code.
-> 2.  Run [Promise](/promises.md) or microtask callbacks.
-> 3.  Run asynchronous code.
-
 ### Zero delays
 
 Now, if we set the setTimeout with a delay of `0` (zero) milliseconds doesn't execute the callback function after the given interval.
@@ -76,6 +70,16 @@ The output will remain the same! 🤯
 ### Non-blocking
 
 A property of the event loop model is that JavaScript, unlike a lot of other languages, never blocks. Handling I/O is typically performed via events and callbacks, so when the application is waiting for a database query to return or an XHR/API request to return, it can still process other things like user input.
+
+```md
+Lets recapitulate 📝:
+
+For each round of Event Loop JavaScript will:
+
+➡ Run synchronous code.  
+➡ Run [Promise](/promises.md) or microtask callbacks.  
+➡ Run asynchronous code.
+```
 
 ---
 
