@@ -45,13 +45,12 @@ JavaScript provides various different data types:
 | `symbol`    | Represents a unique identifier.                                       |
 | `array`     | A group of common type of values.                                     |
 
-````md
+```md
 Lets recapitulate 📝:
 
-➡ There are primarily two types of datatypes in JavaScript: Primitives and Objects. Anything which is not a primitive datatype is an Object.
+➡ There are primarily two types of datatypes in JavaScript: Primitives and Objects.
 
-➡
-
+➡ Anything which is not a primitive datatype is an Object.
 ```
 
 ---
@@ -60,5 +59,3 @@ See Also:
 
 > ⚫ What is the Truth? 🤥 [ Read ▶ ](/what-is-the-truth.md)
 > ⚫ Promises 🤝 and Async/Await 🤯 [ Read ▶ ](/promises.md)
-```
-````
