@@ -22,17 +22,7 @@ The lowest level building blocks in JavaScript are primitives, which include: un
 > typeof true // boolean
 ```
 
-## Objects ☯
-
-Anything that is not a primitive is an Object, or a descendant of it. Objects are collections of key/value pairs and used as the building block for more complex data structures.
-
-```js
-typeof {}; // object
-typeof []; // object
-typeof function () {}; // function (which inherits from object)
-```
-
-JavaScript provides various different data types:
+JavaScript provides seven different primitive data types:
 
 | Data Types  | Examples                                                              |
 | ----------- | --------------------------------------------------------------------- |
@@ -43,14 +33,85 @@ JavaScript provides various different data types:
 | `boolean`   | `true, false`                                                         |
 | `object`    | A collection of properties, with key and value pair.                  |
 | `symbol`    | Represents a unique identifier.                                       |
-| `array`     | A group of common type of values.                                     |
+
+---
+
+## Objects ☯
+
+Anything that is not a primitive is an Object, or a descendant of it. Objects are collections of key/value pairs and used as the building block for more complex data structures.
+
+```js
+typeof {}; // object
+typeof []; // object
+typeof function () {}; // function (which inherits from object)
+```
+
+---
+
+## The difference between `undefined` and `null`
+
+✅ `undefined`: It is the default value for any variable which is declared but has no value assigned to it, OR a function which doesn't return anything.
+
+```js
+let x;
+
+console.log(x); // undefined
+
+// OR
+
+function meh() {}
+
+console.log(meh()); // undefined
+```
+
+✅ `null`: It represents "empty" value, which a programmer would assign explicitly.
+
+```js
+let x = null;
+
+console.log(x); // null
+
+// OR
+
+function meh() {
+  return null;
+}
+
+console.log(meh()); // null
+```
+
+---
+
+## JavaScripts TWO equality operators
+
+JavaScript porvides two equality operators `==` and `===`. Since this is the case there is a lot of confusion
+
+➡ `==`: It is called the equality operator. It only compares the data.
+
+➡ `===`: It is called the identity operator. It compares both data and the data-type.
+
+Let's understand the the differece between them with an example.
+
+```js
+// Exmaple 1
+console.log("5" == 5); // true 🤯
+
+//Example 2
+console.log("5" === 5); // false 😋
+```
+
+This happens because JavaScript will run a converstion before running the comparision. To handle this you should always use the `===` operator instead of the `==` operator.
+
+---
 
 ```md
 Lets recapitulate 📝:
 
 ➡ There are primarily two types of datatypes in JavaScript: Primitives and Objects.
 
-➡ Anything which is not a primitive datatype is an Object.
+➡ Primitive data-types can not be mutated, where as Objects can be mutated.
+
+➡ Always use the `===` operator instead of the `==` operator for comparison.
 ```
 
 ---

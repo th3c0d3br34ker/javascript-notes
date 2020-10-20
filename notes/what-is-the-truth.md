@@ -31,6 +31,28 @@ Example:
 
 ---
 
+## Why Truthy & Falsy
+
+Knowing what does a variable return helps the programmer to control the flow of the program.
+
+```js
+function unicorns(name) {
+  const unicon = name;
+  if (unicorn) {
+    return "Unicorns Exists!";
+  } else {
+    return "Unicorns Don't Exists!";
+  }
+}
+
+console.log(unicorns("🦄")); // Unicorns Exists!
+console.log(unicorns()); // Unicorns Don't Exists
+```
+
+Above is a simple demostration about how the control can be handled using Truthy and Falsy.
+
+---
+
 See also:
 
 > ⚫ Promises 🤝 and Async/Await 🤯 [ Read ▶ ](./promises.md)  
