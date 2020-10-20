@@ -67,9 +67,9 @@ If the promise is `resolved` then the `then()` is executed. If it fails then `ca
 
 > It is very important to have a catch() for proper error handling.
 
-See the above code [here](../scripts/promise.js)
+See the above code [here](../scripts/promise.js).
 
-Read more [here](https://github.com/tc39/proposal-promise-any)
+Read more [here](https://github.com/tc39/proposal-promise-any).
 
 ---
 
@@ -114,15 +114,15 @@ getSalad()
   .catch((error) => console.log(error));
 ```
 
-That's pretty much the introdu
+That's pretty much the introduction to Async/Await.
 
-See the above code [here](../scripts/async-await.js)
+See the above code [here](../scripts/async-await.js).
 
 ---
 
 ## Hold Up! There is MORE 😶
 
-Let's go a bit Deeper 😏. Understading how to use Promise isn't enough. Now we try to use it in a better way.
+Let's go a bit Deeper 😏. Understanding how to use Promise isn't enough. Now we try to use it in a better way.
 
 Here is a faster version of the `getSalad()` function:
 
@@ -140,7 +140,7 @@ const getSaladFaster = async () => {
 > Note:  
 > This is only useful when these requests are not depended on each other.
 
-The fundamental difference is that all the function calls to the `getVeggie()` function is done at once! Yep you read it right 😋. If this was an API call over the internet, it means that you could make requests to all the resources at once, saving a lot of time.
+The fundamental difference is that all the function calls to the `getVeggie()` function is done at once! Yep, you read it right 😋. If this was an API call over the internet, it means that you could make requests to all the resources at once, saving a lot of time.
 
 Here is an example if each Veggie took 1s to load:
 
@@ -169,7 +169,7 @@ getSalad().then(log); // ~4sec
 getSaladFaster().then(log); // ~1sec
 ```
 
-See the above code [here](../scripts/asynchronous-pro.js)
+See the above code [here](../scripts/asynchronous-pro.js).
 
 ---
 
