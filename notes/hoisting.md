@@ -1,4 +1,4 @@
-# Hoisting 🏴‍☠️ ? ...is this a Ship? 🤨
+# **Hoisting 🏴‍☠️ ? ...is this a Ship? 🤨**
 
 [Home](../README.md) / Hoisting 🏴‍☠️ ? ...is this a Ship? 🤨
 
@@ -20,21 +20,39 @@ function fun() {}
 
 > Notice how the function below can be called before it’s actually declared. That’s hoisting in action.
 
-#️⃣ Important point to remember
+**❗❗ Important point to remember ❗❗**
 
-Only declarations are hoisted
+`Only declarations are hoisted`
 
 JavaScript only hoists declarations, not initializations. If a variable is declared and initialized after using it, the value will be undefined. For Example:
 
+## **Hoisting with var, let and const 😗**
+
 ```js
 console.log(n); // Returns undefined, as only declaration was hoisted, no initialization has happened at this stage.
+
 var n; // Declaration
 n = 5; // Initialization
 
 console.log(n); //Throws an error, although was hoisted, no initialization has happened at this stage. Same is the case with var.
+
 let n; // Declaration
 n = 5; // Initialization
 ```
+
+## **Using 'strict' 😛**
+
+JavaScript in 'strict' mode does not allow hoisting.
+
+```js
+use 'strict';
+
+fun(); // no longer works.
+
+function fun() {}
+```
+
+Read more about 'strict' mode [here](./strict.md).
 
 ```md
 Lets recapitulate 📝:
@@ -42,13 +60,15 @@ Lets recapitulate 📝:
 ➡ Functions and variables are stored in memory for an execution context before we execute our code. This is called hoisting.
 
 ➡ Functions are stored with a reference to the entire functions, variables with the var keyword with the value of undefined, and variables with the let and const keyword are stored uninitialized.
+
+➡ Using 'strict' mode prevents this unruly 🤒 behaviour of JavaScript.
 ```
 
 I hope that the term `hoisting` is a bit less obscure now. As always, don't worry if it still doesn't make a lot of sense yet. You'll get a lot more comfortable with it the more you work with it. Feel free to ask me for help. I would love to help you! 😃
 
-See the above code [here](../scripts/hoisting.js)
+See the above code [here](../scripts/hoisting.js).
 
-Read more [here](https://developer.mozilla.org/en-US/docs/Glossary/Hoisting)
+Read more [here](https://developer.mozilla.org/en-US/docs/Glossary/Hoisting).
 
 ---
 

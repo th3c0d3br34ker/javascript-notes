@@ -1,10 +1,18 @@
-# What is the Truth? 🤥
+# **What is the Truth? 🤥**
 
 [Home](../README.md) / What is the Truth? 🤥
 
 ---
 
-## Truthy and Falsy
+## Contents ✨
+
+➡ [Truthy and Falsy](#truthy-and-falsy)
+
+➡ [Why Truthy & Falsy](#why-truthy-&-falsy)
+
+---
+
+## **Truthy and Falsy**
 
 In JavaScript when a value is encountered in a Boolean context - such as an `if` statement - it will be coerced into a boolean. If the result is `true` then the value is truthy and vice versa.
 
@@ -31,7 +39,7 @@ Example:
 
 ---
 
-## Why Truthy & Falsy
+## **Why Truthy & Falsy**
 
 Knowing what does a variable return helps the programmer to control the flow of the program.
 
@@ -50,6 +58,14 @@ console.log(unicorns()); // Unicorns Don't Exists
 ```
 
 Above is a simple demostration about how the control can be handled using Truthy and Falsy.
+
+```md
+Lets recapitulate 📝:
+
+➡ Empty primitive values are false, where as objects is true.
+
+➡ Truthy and Falsy are used to control the flow of the program.
+```
 
 ---
 

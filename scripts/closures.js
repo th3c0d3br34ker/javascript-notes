@@ -1,18 +1,29 @@
-function customCounter() {
-  let count = 0; // persits in memory after customCounter is popped off the call stack
+function outer(n) {
+  let x = n; // persits in memory after outer is popped off the call stack
 
-  function increment() {
-    count++;
-    return count;
+  function inner() {
+    return x;
+  }
+
+  return inner;
+}
+
+// Creates the Closure.
+const closure = outer(1);
+
+// Operates within its context or lexical environment
+console.log(closure()); // 1
+
+// Here is an another example.
+
+function counter(x) {
+  function increment(y) {
+    return x + y;
   }
 
   return increment;
 }
 
-// Creates the Closure.
-const myCounter = customCounter();
-
-// Operates within its context or lexical environment
-myCounter(); // 1
-myCounter(); // 2
-myCounter(); // 3
+const incrementBy1 = counter(1);
+incrementBy1(1); // 2
+incrementBy1(10); // 11

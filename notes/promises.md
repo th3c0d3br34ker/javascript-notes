@@ -1,4 +1,4 @@
-# Promises 🤝 and Async/Await 🤯
+# **Promises 🤝 and Async/Await 🤯**
 
 [Home](../README.md) / Promises 🤝 and Async/Await 🤯
 
@@ -8,12 +8,13 @@ JavaScript is a single-threaded programming language yet everything on the web i
 
 ## Contents ✨
 
-➡ [Promise 🤝](#promise-)  
+➡ [Promise 🤝](#promise-)
+
 ➡ [Async/Await](#asyncawait-)
 
 ---
 
-## Promise 🤝
+## **Promise 🤝**
 
 A Promise represents a value which is unknown now, but may become known at a later time.
 
@@ -75,7 +76,7 @@ Read more [here](https://github.com/tc39/proposal-promise-any).
 
 ---
 
-## Async/Await 🤯
+## **Async/Await 🤯**
 
 Now that we understand Promises. Async/Await is nothing but “Syntactic Sugar” to make asynchronous code look like synchronous code.
 
@@ -122,7 +123,7 @@ See the above code [here](../scripts/async-await.js).
 
 ---
 
-## Hold Up! There is MORE 😶
+## **Hold Up! There is MORE 😶**
 
 Let's go a bit Deeper 😏. Understanding how to use Promise isn't enough. Now we try to use it in a better way.
 

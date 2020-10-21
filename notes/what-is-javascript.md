@@ -1,4 +1,4 @@
-# What on 🌐 is JavaSrcipt? 😵
+# **What on 🌐 is JavaSrcipt? 😵**
 
 [Home](../README.md) / What on 🌐 is JavaSrcipt?
 
@@ -16,7 +16,7 @@ JavaScript is a synchronous, single-threaded language.
 
 ---
 
-## History 🌍
+## **History 🌍**
 
 To understand JavaScript we have to go waaaay back to its creation!  
 JavaScript is a scripting language written by Brendan Eich in 1995 for the Netscape Navigator browser under the working name of **“Mocha”**. After being renamed to **“JavaScript”**, it was standardized by [ECMA International](http://www.ecma-international.org/) as ECMA-262 or [ECMAScript](http://www.ecma-international.org/publications/standards/Ecma-262.htm) in 1997. The authoritative group of people/organizations in charge of the standard is known as TC-39.
@@ -39,23 +39,23 @@ You can learn more about ECMAScript [here](https://github.com/tc39/ecma262#ecmas
 
 > This establishes the fact that it has nothing to do with Java. 🤗
 
-## Current Status 💫
+## **Current Status 💫**
 
 JavaScript is continuously being developed with new additions added to it with every iteration. This is what makes it the most hated/loved language in the world!
 
-## Defination 🚀
+## **Defination 🚀**
 
 Let's breakdown the various key terms associated to JavaScript:
 
-✅ High-level
+✅ **High-level**
 
 JavaScript is a `high-level` programming language. It essentially means that when you run a JavaScript code you don't think about allocating memory or getting a thread from the CPU to run your code. In other words, the level of `abstraction` is provided by a programming language. You get features like `garbage-collectors`, `dynamic-typing` which simplify a programmer's job.
 
-✅ Interpreted
+✅ **Interpreted**
 
 JavaScript is a JIT or Just-In-Time compiled language.
 
-✅ Weakly Typed
+✅ **Weakly Typed**
 
 Unlike most programming languages, JavaScript is weakly typed. It simply means the datatypes become known at runtime.
 
@@ -86,11 +86,11 @@ The type is associated at the run time value. This creates a huge ruckus for pro
 
 Read more about TypeScript [here](https://www.typescriptlang.org/docs).
 
-✅ Single-Threaded
+✅ **Single-Threaded**
 
 JavaScript is a `single-threaded` language. So it can only do only **ONE** computation at a time. When a JavaScript. To combat this, JavaScript implements the concept of `Event Loops`
 
-✅ Synchronous
+✅ **Synchronou**s
 
 JavaScript is `Synchronous`, this essentailly means that each code runs line-by-line.
 

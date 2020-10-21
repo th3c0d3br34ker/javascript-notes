@@ -1,4 +1,4 @@
-# Datatypes in JavaScript. 😙
+# **Datatypes in JavaScript. 😙**
 
 [Home](../README.md) / Datatypes in JavaScript. 😙
 
@@ -6,12 +6,13 @@
 
 There are primarily two types of datatypes in JavaScript:
 
-➡ [Primitives 💫](#primitives-)  
+➡ [Primitives 💫](#primitives-)
+
 ➡ [Objects ☯](#objects-)
 
 ---
 
-## Primitives 💫
+## **Primitives 💫**
 
 The lowest level building blocks in JavaScript are primitives, which include: undefined, null, string, number, bigint, boolean, and symbol. All primitives are immutable.
 
@@ -36,7 +37,7 @@ JavaScript provides seven different primitive data types:
 
 ---
 
-## Objects ☯
+## **Objects ☯**
 
 Anything that is not a primitive is an Object, or a descendant of it. Objects are collections of key/value pairs and used as the building block for more complex data structures.
 
@@ -48,7 +49,7 @@ typeof function () {}; // function (which inherits from object)
 
 ---
 
-## The difference between `undefined` and `null`
+## **The difference between `undefined` and `null`**
 
 ✅ `undefined`: It is the default value for any variable which is declared but has no value assigned to it, OR a function which doesn't return anything.
 
@@ -82,7 +83,7 @@ console.log(meh()); // null
 
 ---
 
-## JavaScripts TWO equality operators
+## **JavaScripts TWO equality operators**
 
 JavaScript porvides two equality operators `==` and `===`. Since this is the case there is a lot of confusion
 
@@ -101,8 +102,6 @@ console.log("5" === 5); // false 😋
 ```
 
 This happens because JavaScript will run a converstion before running the comparision. To handle this you should always use the `===` operator instead of the `==` operator.
-
----
 
 ```md
 Lets recapitulate 📝:
