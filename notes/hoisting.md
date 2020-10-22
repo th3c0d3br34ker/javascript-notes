@@ -64,8 +64,6 @@ Lets recapitulate 📝:
 ➡ Using 'strict' mode prevents this unruly 🤒 behaviour of JavaScript.
 ```
 
-I hope that the term `hoisting` is a bit less obscure now. As always, don't worry if it still doesn't make a lot of sense yet. You'll get a lot more comfortable with it the more you work with it. Feel free to ask me for help. I would love to help you! 😃
-
 See the above code [here](../scripts/hoisting.js).
 
 Read more [here](https://developer.mozilla.org/en-US/docs/Glossary/Hoisting).

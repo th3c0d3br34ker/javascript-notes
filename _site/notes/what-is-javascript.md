@@ -94,13 +94,17 @@ JavaScript is a `single-threaded` language. So it can only do only **ONE** compu
 
 JavaScript is `Synchronous`, this essentailly means that each code runs line-by-line.
 
+---
+
 ```md
 Lets recapitulate 📝:
 
-➡ JavaScript is a high-level, weakly typed, interpreted , synchronous, single-threaded and JIT language.
+➡ JavaScript is a high-level, weakly typed, interpreted, synchronous, single-threaded and JIT programming language.
 
 ➡ To overcome its blocking feature it implements Event Loops.
 ```
+
+Read more [here](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/What_is_JavaScript).
 
 ---
 

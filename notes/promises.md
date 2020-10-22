@@ -6,7 +6,7 @@
 
 JavaScript is a single-threaded programming language yet everything on the web is either blocking 🛑 or time consuming🕓! This means asynchronous processing is an essential skill for any JavaScript developer. Before we understand Async/Await we need to understand Promise.
 
-## Contents ✨
+## **Contents** ✨
 
 ➡ [Promise 🤝](#promise-)
 
@@ -91,7 +91,7 @@ const getVeggie = (name) => {
     avocado: "🥑",
   };
 
-  console.log("returned", name.name);
+  console.log("returned", name);
   return veggies[name];
 };
 
@@ -104,10 +104,11 @@ const getSalad = async () => {
   return [mango, apple, avocado, banana];
 };
 
-// The above code is same as returning a new Promise().resolve()
+// The above code is same as returning a new Promise()
 ```
 
-> Note getVeggie() is just a helper function. It represents time consuming function calls like API calls and Database lookups.
+> Note:  
+> getVeggie() is just a helper function. It represents time consuming function calls like API calls and Database lookups.
 
 The way of consuming the Promise remains the same. Here is how you would consume a Promise:
 
@@ -172,7 +173,7 @@ getSalad().then(log); // ~4sec
 getSaladFaster().then(log); // ~1sec
 ```
 
-See the above code [here](../scripts/asynchronous-pro.js).
+See the above code [here](../scripts/asynchronous-pro.js) and try it yourself.
 
 ```md
 Lets recapitulate 📝:
