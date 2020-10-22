@@ -6,7 +6,7 @@
 
 JavaScript is a single-threaded programming language yet everything on the web is either blocking 🛑 or time consuming🕓! This means asynchronous processing is an essential skill for any JavaScript developer. Before we understand Async/Await we need to understand Promise.
 
-## Contents ✨
+## **Contents** ✨
 
 ➡ [Promise 🤝](#promise-)
 

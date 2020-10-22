@@ -4,7 +4,7 @@
 
 ---
 
-A `closure` is the combination of a function bundled together (enclosed) with references to its surrounding state (the lexical environment).
+A `closure` is the combination of a function bundled together (enclosed) with references to its surrounding state (the `lexical environment`).
 
 In other words, a closure is a function that has `access` to its `outer function scope even after the return of the outer function`. This allows the inner function to access the `variables` and arguments even after the outer function has finished.
 

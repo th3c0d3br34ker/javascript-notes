@@ -39,13 +39,15 @@ Hopefully going to cover everything...
 
 ⚫ Closures... That one question I forgot... 😥 [ Read ▶ ](./notes/closures.md)
 
-⚫ Functions... Calls, Arguments and Return values. 😅
+⚫ Are you looking for `this`? '🙄 [ Read ▶ ](./notes/this.md)
+
+⚫ Functions... Calls, Arguments and Return values. 😅 [ Read ▶ ](./notes/functions.md)
 
 ⚫ Arrow Functions... Cooler brother of Functions. 🤐
 
 ⚫ Pure and Impure Functions??? 😯
 
-⚫ Higher Order Functions. 🤔
+⚫ Higher Order Functions 🤔 & Callbacks _(JS will she won't)_ 😓
 
 ⚫ Objects... They run the show. 🤗
 
