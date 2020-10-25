@@ -1,4 +1,4 @@
-# Javascript ☢ Notes _(cause I can't memorise them all)_ 🥴
+# **Javascript ☢ Notes _(cause I can't memorise them all)_ 🥴**
 
 <div align="center">
 <img width="75%" alt="JavaScript" src ="images/javascript-logo-banner.jpg">
@@ -23,7 +23,7 @@ Hopefully going to cover everything...
 
 ---
 
-## ✨ Contents
+## ✨ **Contents**
 
 ⚫ What on 🌍 is JavaSrcipt? 😶 [ Read ▶ ](./notes/what-is-javascript.md)
 
@@ -59,7 +59,7 @@ Hopefully going to cover everything...
 
 ---
 
-## 🚀 References
+## 🚀 **References**
 
 ➡ [Mozilla](https://developer.mozilla.org/en-US/docs/Web/JavaScript)  
 ➡ [Fireship.io](https://fireship.io/courses/javascript/)

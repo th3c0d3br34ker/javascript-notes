@@ -22,9 +22,9 @@ A Promise can be in one of `three` states:
 
 ➡ **Pending**, when the final value is not available yet. This is the only state that may transition to one of the other two states.
 
-➡ **Fulfilled**, when and if the final value becomes available. A fulfillment value becomes permanently associated with the promise. This may be any value, including undefined.
+➡ **Fulfilled**, when and if the final value becomes available. A fulfillment value becomes permanently associated with the promise. This may be any value, including `undefined`.
 
-➡ **Rejected**, if an error prevented the final value from being determined. A rejection reason becomes permanently associated with the promise. This may be any value, including undefined, though it is generally an Error object, like in exception handling.
+➡ **Rejected**, if an error prevented the final value from being determined. A rejection reason becomes permanently associated with the promise. This may be any value, including `undefined`, though it is generally an Error object, like in exception handling.
 
 Promises work in two phases.
 
@@ -36,27 +36,27 @@ Promise are create with the `new Promise()` constructor initially in the pending
 Here is how you would create one:
 
 ```js
-const getVeggie = (name) => {
-  const veggies = {
+const getFruit = (name) => {
+  const fruits = {
     mango: "🥭",
     apple: "🍎",
     banana: "🍌",
     avocado: "🥑",
   };
 
-  let flag = veggies[name];
+  let flag = fruits[name];
 
   return new Promise((resolve, reject) => {
     if (flag) {
-      resolve("Yay there is Veggie! 😄");
+      resolve("Yay there is Fruit! 😄");
     } else {
-      reject("Sorry there's no Veggie 😔");
+      reject("Sorry there's no Fruit 😔");
     }
   });
 };
 ```
 
-The next step is to consume the above Promise. Promises are either `resolved` or `rejected`. If a promise is `resolved` it means that it ran successful and has returned a value we can use. If a promise is `rejected` it means that it has failed to run properly.
+The next step is to consume the above Promise. Promises are either `resolved` or `rejected`. If a promise is `resolved` it means that it ran successfully and has returned a value we can use. If a promise is `rejected` it means that it has failed to run properly.
 
 Here is how you would consume a Promise:
 
